@@ -1,0 +1,32 @@
+<rss version="2.0">
+  <channel>
+    <title>Tecnología al Día</title>
+    <description>Últimas noticias sobre tecnología.</description>
+    <link>https://www.tecnologiaaldia.com</link>
+    <item>
+      <title>Nuevo iPhone 15</title>
+      <link>https://www.tecnologiaaldia.com/iphone15</link>
+      <pubDate>Mon, 01 Jan 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Avances en Inteligencia Artificial</title>
+      <link>https://www.tecnologiaaldia.com/ia</link>
+      <pubDate>Tue, 02 Jan 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lanzamiento de Windows 12</title>
+      <link>https://www.tecnologiaaldia.com/windows12</link>
+      <pubDate>Wed, 03 Jan 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>El futuro de los coches eléctricos</title>
+      <link>https://www.tecnologiaaldia.com/coches-electricos</link>
+      <pubDate>Thu, 04 Jan 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Realidad Virtual en 2024</title>
+      <link>https://www.tecnologiaaldia.com/realidad-virtual</link>
+      <pubDate>Fri, 05 Jan 2024 10:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
