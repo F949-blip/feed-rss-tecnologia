@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>TecnoActualidad</title>
+    <description>Las últimas noticias y avances en tecnología.</description>
+    <link>https://www.tecnoactualidad.com</link>
+    <language>es</language>
+    <item>
+      <title>OpenAI presenta ChatGPT-4 con capacidades mejoradas</title>
+      <description>OpenAI ha lanzado ChatGPT-4, con mejoras en la comprensión del contexto y la capacidad de generar respuestas más precisas y detalladas.</description>
+      <link>https://www.tecnoactualidad.com/openai-chatgpt4</link>
+      <pubDate>Mon, 02 Oct 2023 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple lanza el iPhone 15 con USB-C y Dynamic Island</title>
+      <description>El nuevo iPhone 15 incluye USB-C por primera vez y mejora la funcionalidad de Dynamic Island en todos los modelos.</description>
+      <link>https://www.tecnoactualidad.com/iphone-15-lanzamiento</link>
+      <pubDate>Sun, 01 Oct 2023 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA anuncia las RTX 40 Super para gaming y creación de contenido</title>
+      <description>NVIDIA ha presentado su nueva serie de tarjetas gráficas RTX 40 Super, diseñadas para ofrecer un rendimiento superior en gaming y aplicaciones de creación de contenido.</description>
+      <link>https://www.tecnoactualidad.com/nvidia-rtx-40-super</link>
+      <pubDate>Sat, 30 Sep 2023 11:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft integra Copilot en Windows 11</title>
+      <description>Microsoft ha lanzado una actualización de Windows 11 que integra Copilot, su asistente de IA, para mejorar la productividad de los usuarios.</description>
+      <link>https://www.tecnoactualidad.com/microsoft-copilot-windows11</link>
+      <pubDate>Fri, 29 Sep 2023 16:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elon Musk revela avances en Neuralink y pruebas en humanos</title>
+      <description>Neuralink, la empresa de Elon Musk, ha recibido aprobación para realizar pruebas en humanos con su tecnología de interfaz cerebro-máquina.</description>
+      <link>https://www.tecnoactualidad.com/neuralink-pruebas-humanos</link>
+      <pubDate>Thu, 28 Sep 2023 18:20:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
